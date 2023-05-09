@@ -1,7 +1,8 @@
 # VARC_CSat
 
-![Board Stack](https://github.com/mathewjohn01/VARC_CSat/assets/133031230/7b2a8c74-6c26-4350-a16f-45d2f875f45a)
-Board Stack
+
+
+https://github.com/mathewjohn01/VARC_CSat/assets/133031230/2eb3a45f-3197-44b6-a39c-55cbd1a87cd8
 
 ![Main Board Side A](https://github.com/mathewjohn01/VARC_CSat/assets/133031230/6c7eb952-a38f-43bd-a2e0-2f28f167e97f)
 Main Board Side A
